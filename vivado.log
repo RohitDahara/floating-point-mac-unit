@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Oct 13 03:06:44 2024
+# Process ID: 18384
+# Current directory: D:/Project/macc
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent24268 D:\Project\macc\macc.xpr
+# Log file: D:/Project/macc/vivado.log
+# Journal file: D:/Project/macc\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Project/macc/macc.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2016.4/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Oct 13 03:08:45 2024...
